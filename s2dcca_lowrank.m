@@ -18,6 +18,8 @@ function [Alpha, Beta] = s2dcca_lowrank(X, Y, options)
 % Outputs:  
 %      Alpha: Left canonical vector
 %      Beta : Right canonical vectors
+% Usage : options =struct('dim', 5, 'LambdaU', 1,'LambdaV', 1,'EpsU', 0.1, 'EpsV', 0.1);
+%                  [Alpha, Beta] = s2dcca_lowrank(Dx, Dy, options);
 %% -------------------------------------------------------%
 %% Parameters
 Dimension_CCA = options.dim;
