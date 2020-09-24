@@ -1,10 +1,12 @@
 # Sparse2DCCA
 
 Usage: 
-Just run `demo.m` file. In case you come across any issue running this simulation setup, please file an issue. I will try to respond as soon as possible. 
+Just run `demo.m` file in MATLAB. I have used MATLAB 2017b version to successfully run these scripts.  
+
+In case you come across any issue running this simulation setup, please file an issue. I will try to respond as soon as possible. 
 
 
-If you use above codes, please cite this article 
+If you use MATLAB codes provided, please cite this article 
 
 Muhammad Ali Qadar, Abdeldjalil Aïssa-El-Bey, Abd-Krim Seghouane, Two dimensional CCA via penalized matrix decomposition for structure preserved fMRI data analysis, Digital Signal Processing, Volume 92, 2019, Pages 36-46, 2019.  https://doi.org/10.1016/j.dsp.2019.04.010
 
